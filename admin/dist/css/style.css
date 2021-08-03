@@ -1,0 +1,28 @@
+.all_catagories_title{
+	font-size: 24px;
+	background: green;
+	color: white;
+	font-weight: 700;
+	padding-left: 10px;
+}
+.catagory_form .add_catagory_title{
+	font-size: 24px;
+	background: white;
+	color: black;
+	font-weight: 700;
+	padding-left: 10px;
+}
+.table .btn-group .fa-edit{
+   color: green;
+   padding-right: 5px;
+}
+.fa-trash{
+  color: red;
+}
+.table .btn-group .fa-edit:hover{
+   color: yellow;
+   padding-right: 5px;
+}
+.fa-trash:hover{
+  color: white;
+}
